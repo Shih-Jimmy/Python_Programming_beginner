@@ -13,4 +13,4 @@ year = int(input("Please input 民國 ="))
 print("西元 =",my_func1(year))
 
 year = int(input("Please input 西元 ="))
-print("民國民國 =",my_func2(year))
+print("民國 =",my_func2(year))
